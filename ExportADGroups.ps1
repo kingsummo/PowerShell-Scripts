@@ -1,0 +1,1 @@
+Get-ADPrincipalGroupMembership lara.bowell | select name

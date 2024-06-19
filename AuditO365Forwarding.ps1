@@ -1,0 +1,1 @@
+Get-Mailbox -ResultSize Unlimited -RecipientTypeDetails UserMailbox | Select UserPrincipalName,ForwardingSmtpAddress,DeliverToMailboxAndForward
